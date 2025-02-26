@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "水产_ESPG_4326_WGS84",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "category": "0", "id": 15, "area": 1190.5376578753385, "type": "螃蟹" }, "geometry": { "type": "Point", "coordinates": [ 113.538123576333916, 22.646672104232216 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 23, "area": 1338.5423394097054, "type": "螃蟹" }, "geometry": { "type": "Point", "coordinates": [ 113.538509033484814, 22.648353027194009 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 36, "area": 801.02533722611986, "type": "螃蟹" }, "geometry": { "type": "Point", "coordinates": [ 113.542198418959501, 22.650393985496414 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 46, "area": 2940.5930138053645, "type": "螃蟹" }, "geometry": { "type": "Point", "coordinates": [ 113.542954397290671, 22.652102449343026 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 48, "area": 1245.539397631097, "type": "螃蟹" }, "geometry": { "type": "Point", "coordinates": [ 113.535585985997116, 22.652644932770336 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 50, "area": 765.02419847270426, "type": "草鱼" }, "geometry": { "type": "Point", "coordinates": [ 113.535404143818852, 22.65309940505405 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 54, "area": 6688.1001700608831, "type": "草鱼" }, "geometry": { "type": "Point", "coordinates": [ 113.549344637534929, 22.654874781371106 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 56, "area": 8454.2674167252899, "type": "草鱼" }, "geometry": { "type": "Point", "coordinates": [ 113.547169840192055, 22.655493388248452 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 58, "area": 13758.435192751431, "type": "草鱼" }, "geometry": { "type": "Point", "coordinates": [ 113.547984280574951, 22.655906337975946 ] } },
+{ "type": "Feature", "properties": { "category": "0", "id": 60, "area": 16123.510002379711, "type": "草鱼" }, "geometry": { "type": "Point", "coordinates": [ 113.546227345079487, 22.656337765406278 ] } }
+]
+}
